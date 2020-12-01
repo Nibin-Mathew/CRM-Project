@@ -1,2 +1,2 @@
 # CRM-Project
-Automate the CRM project using POM Framework
+Automate the CRM project using POM +TestNG Framework
